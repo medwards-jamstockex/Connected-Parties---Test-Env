@@ -1,0 +1,2 @@
+Config File Encryption
+http://weblogs.asp.net/jgalloway/archive/2008/04/13/encrypting-passwords-in-a-net-app-config-file.aspx
